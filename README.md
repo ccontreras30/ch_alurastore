@@ -36,4 +36,5 @@ LENGUAJE UTILIZADO
 Se utiliza unicamente lenguaje Python, que es el objeto de estudio en el cual me encuentro actualmente como alumno del programa One Alura Latam.
 
 DESARROLLADOR DEL PROYECTO
+https://www.linkedin.com/in/carlos-contreras-lillo
 
